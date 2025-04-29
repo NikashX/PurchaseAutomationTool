@@ -1,2 +1,2 @@
 # PurchaseAutomationTool
-This is my my commit
+This is my commit
